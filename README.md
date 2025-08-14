@@ -1,6 +1,6 @@
 ## Ola! Me chamo Leonardo 👋
 
-- 🔭 Atualmete estou trabalhando com instalações de internet e câmeras de segurança
+- 🔭 Trabalhando com instalações de internet e câmeras de segurança
 - 👨‍🎓 Comecei atualmente o curso de Analise e Desenvolvimento de Sistemas (ADS).
 - 🧠 Aprendendo sobre:
 . Mikrotik
