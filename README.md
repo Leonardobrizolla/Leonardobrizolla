@@ -18,4 +18,4 @@
 
 
 
-![Snake animation](https://github.com/Leonardobrizolla/Leonardobrizolla/blob/output/github-contribution-grid-snake.svg)
+
