@@ -19,3 +19,4 @@
 
 
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/output/github-contribution-grid-snake.svg)
